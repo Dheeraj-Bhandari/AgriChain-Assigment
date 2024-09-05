@@ -1,4 +1,4 @@
-# Agritech Supermarket Checkout by Dheeraj
+#Supermarket Checkout Using Python OOP concept by Dheeraj
 
 This project implements a Agritech Supermarket Checkout Assignment process that calculates the total price of items added to the cart by the customer. It supports individual pricing and special offers for bulk purchases. The project now includes a FastAPI application to interact with the checkout system.
 
